@@ -14,7 +14,7 @@ base:
   - IsActiveMember
   - EstimatedSalary
   targ_col: Exited
-  random_state: 42
+  random_state: 43
   model_dir: .mlem/model
 
 data_split:
